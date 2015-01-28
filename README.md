@@ -1,4 +1,4 @@
-#Client-cloud protein-protein docking application.#
+#Client-cloud self-scaling computational backend and user API for MS Azure#
 
 ##Overview##
 

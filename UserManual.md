@@ -2,7 +2,7 @@
 
 ## REST API - curl ##
 
-*Service address (and port number if available) refernced below should be provided 
+*Service address (and port number if available) referenced below should be provided 
 by the whoever has deployed the API server*
 
 ### JOB ###
@@ -119,7 +119,7 @@ by the whoever has deployed the API server*
     
 ### SCALE UP/DOWN ###
     
-- getting current nnumber of instances
+- getting current number of instances
         
 ```
             $

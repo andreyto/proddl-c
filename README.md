@@ -14,7 +14,7 @@ The distributed workflow execution and file staging to compute nodes are provide
 
 [Client user API](/andreyto/proddl-c/src/master/UserManual.md)
 
-[Developer's Manual](/andreyto/proddl-c/src/master/DeveloperManual.md) for building, deploying and modifying
+[Developer's Manual](/andreyto/proddl-c/src/master/DeveloperManual.txt) for building, deploying and modifying
 
 [Creating a x509 Certificate for the Windows Azure Management API](/andreyto/proddl-c/src/master/CreatingJavaCertificate.html), a step required for deployment as referenced by the Developer's Manual
 

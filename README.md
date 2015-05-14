@@ -12,7 +12,7 @@ The distributed workflow execution and file staging to compute nodes are provide
 
 ##Documentation##
 
-[Client user API](/andreyto/proddl-c/src/master/UserManual.md)
+[Client user API](UserManual.md)
 
 [Developer's Manual](/andreyto/proddl-c/src/master/DeveloperManual.txt) for building, deploying and modifying
 
